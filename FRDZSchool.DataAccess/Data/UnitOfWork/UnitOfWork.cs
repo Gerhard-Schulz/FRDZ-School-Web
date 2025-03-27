@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace FRDZSchool.DataAccess.Data.UnitOfWork
+﻿namespace FRDZSchool.DataAccess.Data.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork.IUnitOfWork
     {
